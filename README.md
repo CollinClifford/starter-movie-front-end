@@ -2,8 +2,11 @@
 We Love Movies was a Capstone Project for Thinkful's Software Engineering Bootcamp.  It required me to use Express, PostgreSQL, Knex, RESTful design principles, etc.
 
 We Love Movies is a website that let's users see which movies are playing in the city of Portland.  It is an example of my ability to access and navigate databases to display information in a client facing web application.
+
 [We Love Movies](https://wlm-client.herokuapp.com/)
+
 [Server Repo](https://github.com/CollinClifford/we-love-movies-backend)
+
 ![2022-01-01 (3)](https://user-images.githubusercontent.com/83039749/147857935-fc98604a-5a2d-4725-b8b7-1ba9983cc7ef.png)
 
 Skills used to create this application:
